@@ -1,0 +1,9 @@
+body{
+    font-size: 200%;
+    color: rgba(18,52,86,0.47059);
+    display: flex;
+    clip-path: polygon(50% 0, 100% 50%, 50% 100%, 0 50%);
+    overflow: auto;
+}
+
+

@@ -1,0 +1,8 @@
+@import "color.css";
+body{
+    background:url("./233.png");
+}
+
+h2{
+    display: flex;
+}
